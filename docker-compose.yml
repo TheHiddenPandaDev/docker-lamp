@@ -8,7 +8,8 @@ services:
         environment:
             MYSQL_DATABASE: dbname
             MYSQL_PASSWORD: test
-            MYSQL_ROOT_PASSWORD: test 
+            MYSQL_ROOT_PASSWORD: test
+            UPLOAD_LIMIT: 256M
         volumes:
             - ./dump:/docker-entrypoint-initdb.d
             - ./conf:/etc/mysql/conf.d
