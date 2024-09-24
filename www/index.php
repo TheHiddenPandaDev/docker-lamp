@@ -1,3 +1,4 @@
+<?php phpinfo(); ?>
 <html>
     <head>
         <title>Welcome to LAMP Infrastructure</title>

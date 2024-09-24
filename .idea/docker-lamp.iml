@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/astra-pro-sites/inc/lib/ai-builder" isTestSource="false" packagePrefix="AiBuilder" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/astra-pro-sites/inc/lib/gutenberg-templates" isTestSource="false" packagePrefix="Gutenberg_Templates" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/astra-pro-sites/inc/lib/zip-ai" isTestSource="false" packagePrefix="ZipAI" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/astra-sites/inc/lib/ai-builder" isTestSource="false" packagePrefix="AiBuilder" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates" isTestSource="false" packagePrefix="Gutenberg_Templates" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/astra-sites/inc/lib/zip-ai" isTestSource="false" packagePrefix="ZipAI" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/google-analytics-for-wordpress/includes/gutenberg/headline-tool/phpinsight/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/mailpoet/generated" isTestSource="false" packagePrefix="MailPoetGenerated" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/mailpoet/lib" isTestSource="false" packagePrefix="MailPoet" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/mailpoet/lib-3rd-party" isTestSource="false" packagePrefix="MailPoetVendor" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/sg-cachepress/core" isTestSource="false" packagePrefix="SiteGround_Optimizer" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/sg-security/core" isTestSource="false" packagePrefix="SG_Security" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/templates-patterns-collection/includes" isTestSource="false" packagePrefix="TIOB" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/ultimate-addons-for-gutenberg/lib/gutenberg-templates" isTestSource="false" packagePrefix="Gutenberg_Templates" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/ultimate-addons-for-gutenberg/lib/zip-ai" isTestSource="false" packagePrefix="ZipAI" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/ultimate-elementor" isTestSource="false" packagePrefix="UltimateElementor" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/ultimate-elementor/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/woocommerce-payments/src" isTestSource="false" packagePrefix="WCPay" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/wordpress-starter/core" isTestSource="false" packagePrefix="SiteGround_Central" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-content/plugins/wpforms-lite/src" isTestSource="false" packagePrefix="WPForms" />
+      <sourceFolder url="file://$MODULE_DIR$/www/boscosmeal/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
